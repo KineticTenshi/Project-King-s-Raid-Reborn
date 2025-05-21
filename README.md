@@ -23,3 +23,7 @@ The goal is to faithfully replicate the original game's experience while allowin
 
 - `Unity/` — Contains Unity-specific scripts.
 - `NonUnity/` — Contains supplementary materials not directly tied to Unity.
+
+## Demo
+
+Here is a short video showing the progress thus far : https://streamable.com/oadtvm
